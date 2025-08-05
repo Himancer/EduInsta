@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+openai
+jinja2
+requests
+python-dotenv
+pydantic
+ffmpeg-python
